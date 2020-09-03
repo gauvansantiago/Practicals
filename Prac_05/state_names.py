@@ -1,7 +1,7 @@
 """
-CP1404/CP5632 Practical - Suggested Solution
+CP1404/CP5632 Practical 05
 State names in a dictionary
-File has been reformatted and state inputs can be any case
+Gauvan Santiago
 """
 
 states = {"QLD": "Queensland", "NSW": "New South Wales",
@@ -11,7 +11,7 @@ states = {"QLD": "Queensland", "NSW": "New South Wales",
 # Displays States
 print(states)
 
-# Asks user for state and validates 
+# Asks user for state and validates
 state = input("Enter short state: ").upper()
 while state != "":
     if state in states:
