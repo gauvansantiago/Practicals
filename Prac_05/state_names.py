@@ -5,11 +5,13 @@ File has been reformatted and state inputs can be any case
 """
 
 states = {"QLD": "Queensland", "NSW": "New South Wales",
-               "NT": "Northern Territory", "WA": "Western Australia",
-               "ACT": "Australian Capital Territory", "VIC": "Victoria",
-               "TAS": "Tasmania"}
+          "NT": "Northern Territory", "WA": "Western Australia",
+          "ACT": "Australian Capital Territory", "VIC": "Victoria",
+          "TAS": "Tasmania"}
+# Displays States
 print(states)
 
+# Asks user for state and validates 
 state = input("Enter short state: ").upper()
 while state != "":
     if state in states:
