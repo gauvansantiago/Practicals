@@ -1,5 +1,5 @@
 """
-CP1404/CP5632 Practical 05
+CP1404/CP5632 Practical 5
 State names in a dictionary
 Gauvan Santiago
 """
