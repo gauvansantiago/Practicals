@@ -1,7 +1,7 @@
 """
 CP1404/CP5632 Practical 5
-State names in a dictionary
 Gauvan Santiago
+
 """
 
 states = {"QLD": "Queensland", "NSW": "New South Wales",
