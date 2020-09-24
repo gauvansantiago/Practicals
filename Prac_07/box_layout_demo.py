@@ -1,3 +1,8 @@
+"""
+CP1404 Week 8 Prac_07
+Gauvan Santiago,
+24/09/2020
+"""
 from kivy.app import App
 from kivy.lang import Builder
 
